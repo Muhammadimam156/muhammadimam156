@@ -1,4 +1,4 @@
-
+![logo display ="flex" justify-content ="center"](https://github.com/Muhammadimam156/muhammadimam156/blob/main/Muhammad%20Imam%20(1).png)
 <h1 align="center">Hi 👋, I'm Muhammad Imam</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img width="400" align="right" alt="coding" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif">
