@@ -18,11 +18,11 @@
 
 - 🌱 I’m currently learning **Web and app mobile development.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rashidkhan1234567/](https://github.com/rashidkhan1234567/)
+- 👨‍💻 All of my projects are available at [[https://github.com/rashidkhan1234567/](https://github.com/Muhammadimam156/muhammadimam156/)]
 
 - 💬 Ask me about **HTML, CSS, BOOTSTRAP.**
 
-- 📫 How to reach me **rashidkhan618@gmail.com**
+- 📫 How to reach me **imamaliqadri5@gmail.com*
 
 - ⚡ Fun fact **I am funny 😋😅**
 
