@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [My Personal Portfolio](https://github.com/Muhammadimam156/WORLD-CLOCK.git)
+- 🔭 I’m currently working on [My Personal Portfolio](https://muhammadimam156.github.io/portfolio/)
 
 - 🌱 I’m currently learning **Web Development , App Development**
 
